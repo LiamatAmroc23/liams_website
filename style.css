@@ -1,0 +1,22 @@
+img {
+    width: 100px;
+  }
+  body {
+    text-align: center;
+  }
+  body {
+    text-align: center;
+    font-family: 'Tahoma';
+    background: white;
+    color: firebrick;
+  }
+  fieldset {
+    padding: 0 1em 1em 1em;
+  }
+
+  legend {
+    padding: 1em;
+    text-align: center;
+  }
+  
+    
